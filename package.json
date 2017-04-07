@@ -1,25 +1,27 @@
 {
   "name": "theta-control",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Control your Ricoh Theta S whit this script!",
   "main": "theta.js",
   "scripts": {
-    "test": "npm run theta"
+    "theta": "node theta.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://sebastianoboem@bitbucket.org/ensoul/thetanpmscript.git"
+    "url": "git+https://github.com/sebastianoboem/theta-control.git"
   },
   "keywords": [
-    "ensoul",
     "script",
-    "ricoh",
     "theta",
+    "ricoh",
     "s",
-    "npm",
-    "control"
+    "control",
+    "npm"
   ],
-  "author": "Sebastiano Boem <seba.boem@gmail.com>",
+  "author": "Sebastiano Boem",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/ensoul/thetanpmscript#readme"
+  "bugs": {
+    "url": "https://github.com/sebastianoboem/theta-control/issues"
+  },
+  "homepage": "https://github.com/sebastianoboem/theta-control#readme"
 }
