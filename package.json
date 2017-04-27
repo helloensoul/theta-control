@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebastianoboem/theta-control.git"
+    "url": "git+https://github.com/itsensoul/theta-control.git"
   },
   "keywords": [
     "script",
@@ -21,7 +21,7 @@
   "author": "Sebastiano Boem",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sebastianoboem/theta-control/issues"
+    "url": "https://github.com/itsensoul/theta-control/issues"
   },
-  "homepage": "https://github.com/sebastianoboem/theta-control#readme"
+  "homepage": "https://github.com/itsensoul/theta-control#readme"
 }
